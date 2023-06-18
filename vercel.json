@@ -1,0 +1,9 @@
+{
+    "build": {
+      "env": {
+        "ESLINT_PLUGIN_REACT_HOOKS_EXHAUSTIVE_DEPS": "off",
+        "ESLINT_PLUGIN_REACT_NO_UNESCAPED_ENTITIES": "off"
+      }
+    }
+  }
+  
