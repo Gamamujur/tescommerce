@@ -89,7 +89,7 @@ const Product = ({products}) => {
   
 
   return (
-    <div className="w-screen h-[110vh] relative" id="product">
+    <div className="w-screen h-[110vh] relative bg-white" id="product">
       <div className="absolute top-[10vh] w-full">
         <h1 className="text-4xl font-black text-center font-mons">
           Our Products

@@ -11,7 +11,7 @@ const index = ({ product }) => {
   };
 
   return (
-    <div className="absolute w-full h-full top-40">
+    <div className="absolute w-full h-full bg-white top-40">
       <div className="grid h-[80vh] grid-flow-row grid-rows-5 mt-20 p-2 lg:grid-flow-col md:grid-rows-3">
         <div className="grid h-auto row-span-2 place-content-center md:row-span-3 md:place-content-center lg:place-content-center pb-28 lg:pb-0 ">
           <img
